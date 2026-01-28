@@ -87,4 +87,7 @@ This comparative layer does NOT claim:
 
 ---
 
-**END OF README**
+## Related
+
+- [structural-collaboration-primitives](https://github.com/whmatrix/structural-collaboration-primitives) — Interaction primitives derived from these grammars
+- [interaction-mechanics-index](https://github.com/whmatrix/interaction-mechanics-index) — Queryable FAISS index over dialogue segments using these primitives
