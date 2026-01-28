@@ -21,7 +21,7 @@ This comparison identifies structural alignments, invariants, and divergences be
 ### GPT Corpus (v1)
 
 ```
-~/professional_clear/portfolio_indexing_projects/human-ai-dialogue-artifacts/
+corpus/old_gpt_v1/
 ├── segment_typology_map.md
 ├── phase_4b_typology_validation.md
 ├── phase_4a_ingestion_summary.md
@@ -32,7 +32,7 @@ This comparison identifies structural alignments, invariants, and divergences be
 ### Claude Corpus (v2)
 
 ```
-~/professional_clear/research-corpus-v2-old-claude/
+corpus/old_claude_v2/
 ├── segment_typology_map.md
 ├── phase_4b_typology_validation.md
 ├── phase_4a_ingestion_summary.md
