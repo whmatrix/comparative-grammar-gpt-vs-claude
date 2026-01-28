@@ -1,3 +1,5 @@
+> **Author:** John Mitchell (@whmatrix)
+
 # Comparative Grammar — GPT vs Claude
 
 **Generated:** 2025-01-23
