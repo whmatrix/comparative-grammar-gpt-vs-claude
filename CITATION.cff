@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research in academic work, please cite as below."
+authors:
+  - family-names: "Matrix"
+    given-names: "Wade"
+title: "Structural Comparison of GPT vs Claude Dialogue Grammars"
+version: 1.0.0
+date-released: 2026-01-24
+url: "https://github.com/whmatrix/comparative-grammar-gpt-vs-claude"
+type: software
+keywords:
+  - dialogue-analysis
+  - llm-behavior
+  - structural-comparison
+  - linguistics
+license: MIT
