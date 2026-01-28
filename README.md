@@ -18,26 +18,17 @@ This comparison identifies structural alignments, invariants, and divergences be
 
 ## Input Sources
 
-### GPT Corpus (v1)
+This repository contains derived analytical outputs (grammar crosswalk, structural invariants).
 
-```
-corpus/old_gpt_v1/
-├── segment_typology_map.md
-├── phase_4b_typology_validation.md
-├── phase_4a_ingestion_summary.md
-├── indexing_mapping_spec.md
-└── ingestion_rules.md
-```
+Source material (raw dialogue transcripts and segment typology maps) is private. Each corpus was independently validated before this comparative layer was constructed.
 
-### Claude Corpus (v2)
+For reproducibility, the derived analysis is fully contained in this repo:
+- `type_crosswalk_table.md` — type-by-type mapping between both grammars
+- `comparative_grammar_matrix.md` — structural invariants, divergences, closure mechanics
 
-```
-corpus/old_claude_v2/
-├── segment_typology_map.md
-├── phase_4b_typology_validation.md
-├── phase_4a_ingestion_summary.md
-└── ingestion_rules.md
-```
+For the downstream infrastructure built on these grammars, see:
+- [interaction-mechanics-index](https://github.com/whmatrix/interaction-mechanics-index) — Queryable FAISS index of dialogue segments
+- [structural-collaboration-primitives](https://github.com/whmatrix/structural-collaboration-primitives) — Interaction primitives derived from these grammars
 
 ---
 
